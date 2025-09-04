@@ -16,6 +16,11 @@ It provides automated test suites for validating both **English** and **Persian*
 - **`kotlin/monkey/`** – Monkey testing utilities and random interaction test scenarios.  
 - **`kotlin/data/`** – Centralized test data.  
 - **`AndroidManifest.xml`** – Android test configuration.  
+<p align="center">
+  <strong>🎬 VIDEO</strong><br>
+  <img src="مسیر/به/ویدیو.gif" alt="Demo Video" width="500"/>
+</p>
 
-
-
+<p align="center">
+<img src="assets/Media1.mp4.gif" alt="Video"/>
+</p>
